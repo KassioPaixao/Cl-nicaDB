@@ -6,3 +6,4 @@ Sistema para gerenciar entrada e saída dos pacientes. Assim como, controlar o f
 
 - Cadastrar Usuário
 - Cadastra Paciente
+
