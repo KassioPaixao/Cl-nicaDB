@@ -1,2 +1,2 @@
-# Cl-nicaDB
+# ClinicaDB
 Sistema de consulta clínica online 
