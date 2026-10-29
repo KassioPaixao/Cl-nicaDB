@@ -5,5 +5,6 @@ Sistema de consulta clínica online
 Sistema para gerenciar entrada e saída dos pacientes. Assim como, controlar o financeiro com ralatórios diários, mensais.  
 
 - Cadastrar Usuário
-- Cadastra Paciente
+- Cadastrar Paciente
+- Relatório Mensal do que entrou e saiu do caixa da Clínica
 
